@@ -3,12 +3,6 @@
 > **by fmusicmc Gemgym team**  
 > Generate short, on‑topic replies for Twitter/X using LLMs (OpenAI‑compatible) with optional web search (SerpAPI/Wikipedia).
 
-<p align="center">
-  <img src="assets/logo_main.png" alt="fmusicmc main logo" height="80" />
-  &nbsp;&nbsp;
-  <img src="assets/logo_gemgym.png" alt="Gemgym logo" height="80" />
-</p>
-
 ---
 
 ## Features
@@ -153,4 +147,4 @@ fmusicmc ai — © fmusicmc Gemgym team. All rights reserved.
 Contact: https://x.com/mr_satoshiii — @fmusicmc_P
 ```
 
-Using the code implies acceptance that the **fmusicmc Gemgym team** holds full rights to the project name, branding, and included logos (`assets/logo_main.png`, `assets/logo_gemgym.png`). Third‑party model/API usage is subject to their respective terms.
+Using the code implies acceptance that the **fmusicmc Gemgym team** holds full rights to the project name, branding, and included logos , . Third‑party model/API usage is subject to their respective terms.
