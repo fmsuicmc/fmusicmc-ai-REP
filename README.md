@@ -2,8 +2,9 @@
 
 > **by fmusicmc Gemgym team**  
 > Generate short, on‑topic replies for Twitter/X using LLMs (OpenAI‑compatible) with optional web search (SerpAPI/Wikipedia).
-<a href="https://ibb.co/tp0xcHrv"><img src="https://i.ibb.co/b542L69C/photo-2025-09-02-00-32-16.jpg" alt="photo-2025-09-02-00-32-16" border="0"></a>
+
 ---
+<a href="https://ibb.co/tp0xcHrv"><img src="https://i.ibb.co/b542L69C/photo-2025-09-02-00-32-16.jpg" alt="photo-2025-09-02-00-32-16" border="0"></a>
 
 ## Features
 - Floating **fmusicmc ai** button on Twitter/X
