@@ -4,7 +4,7 @@
 > Generate short, on‑topic replies for Twitter/X using LLMs (OpenAI‑compatible) with optional web search (SerpAPI/Wikipedia).
 
 ---
-<a href="https://ibb.co/XZf0LCMB"><img src="https://i.ibb.co/TBDj2gdX/Screenshot-2025-09-02-at-12-52-30-AM.png" alt="Screenshot-2025-09-02-at-12-52-30-AM" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>where can you store photos for free</a><br />
+<a href="https://ibb.co/XZf0LCMB"><img src="https://i.ibb.co/TBDj2gdX/Screenshot-2025-09-02-at-12-52-30-AM.png" alt="Screenshot-2025-09-02-at-12-52-30-AM" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
 
 
 
