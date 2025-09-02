@@ -50,37 +50,6 @@
 
 ---
 
-## شروع سریع (FA)
-
-1. **نصب افزونه**
-   - به `chrome://extensions/` برو و **Developer mode** را روشن کن.
-   - روی **Load unpacked** بزن و پوشه‌ی `fmusicmc-ai` را انتخاب کن.
-
-2. **تنظیمات (OpenRouter)**
-   - وارد صفحه‌ی تنظیمات افزونه شو (`options.html`).
-   - مقدارها را این‌طور بگذار:
-     - **Provider**: `openrouter` (یا `custom`)
-     - **API Endpoint**: `https://openrouter.ai/api/v1/chat/completions`
-     - **Model**: مثلاً `openai/gpt-4o-mini`
-     - **API Key**: کلید `sk-or-...` از OpenRouter
-   - (اختیاری) **SerpAPI Key** برای فعال‌کردن جستجو
-
-3. **استفاده در X (توییتر)**
-   - توییت را باز کن، روی دکمه‌ی شناور **fmusicmc ai** بزن.
-   - تون پاسخ را انتخاب کن → **تولید پاسخ** → **قرار دادن در باکس ریپلای**
-   - ارسال خودکار نداریم؛ خودت دکمه‌ی **Send** را بزن.
-
-### نکات مهم
-- افزونه با APIهای سازگار با OpenAI کار می‌کند (ساختار `/v1/chat/completions`).  
-- برای **OpenRouter** هدرهای لازم به‌صورت خودکار اضافه می‌شود:
-  - `Authorization: Bearer <sk-or-...>`
-  - `HTTP-Referer: https://x.com`
-  - `X-Title: fmusicmc ai`
-- خطای `401 invalid_api_key` معمولاً از اشتباه بودن Endpoint/Model/Key است.
-- خطای `import() is disallowed …` در این نسخه رفع شده است (استفاده از ES Modules).
-
----
-
 ## File Structure
 ```
 fmusicmc-ai/
