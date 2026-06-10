@@ -9,7 +9,7 @@
 
 
 ## Features
-- Floating **fmusicmc ai** button on Twitter/X
+- Floating **fmusicmc Smart Twitter Replies** button on Twitter/X
 - One‑click panel: analyze tweet → generate concise reply → insert into reply box (no auto‑send)
 - Tone control (friendly / professional / witty / analytical / neutral)
 - Entity extraction (hashtags, cashtags, mentions, keywords)
