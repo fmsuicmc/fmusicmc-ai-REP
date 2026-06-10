@@ -20,7 +20,6 @@
 ---
 
 ## Quick Start (EN)
-
 1. **Download / Load Unpacked**
    - Go to `chrome://extensions/` → enable **Developer mode**
    - **Load unpacked** → select the `fmusicmc-ai` folder
